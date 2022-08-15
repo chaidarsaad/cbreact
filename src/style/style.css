@@ -1,0 +1,67 @@
+.mybg{
+    height: 100vh;
+    background: url(https://i.postimg.cc/4dx0p6Xp/cinema.jpg);
+    background-size: cover;
+}
+
+.intro{
+    height: 390px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.maintitle{
+    /* font-size: 3rem; */
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 4px;
+}
+
+.navtitle{
+    font-size: 11.5px;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 4px;
+}
+
+.title{
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 4px;
+}
+
+.trending{
+    height: auto;
+    background: url(https://i.postimg.cc/Y9fpSKtb/1988378.jpg);
+    background-size: cover;
+}
+
+.superhero{
+    height: auto;
+    background: url(https://i.postimg.cc/bYGVx079/329583.jpg);
+    background-size: cover;
+}
+
+.mvWrp{
+
+}
+
+.mvImg{
+    background-color: black;
+    height: auto;
+    margin: 5px;
+    padding: 5px;
+}
+
+.txt{
+    text-align: justify;
+}
+
+.images{
+    height: 500px;
+}
